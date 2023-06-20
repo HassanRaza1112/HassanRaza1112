@@ -4,6 +4,6 @@
   REACTJS NODEJS NEXTJS MOBX MONGODB FASTIFY 
 - 💞️ I’m looking to collaborate with people doing interesting work.
 - 📫 How to reach me ...
-  +923364160752
+  +12816738871
   hassanrazash@gmail.com
 
